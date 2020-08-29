@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Ejericio 3 FioDio", "Ejericio 3 FioDio\Ejericio 3 FioDio.dtproj", "{D3C18D64-9B15-4F60-8595-A20D6081A41B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C18D64-9B15-4F60-8595-A20D6081A41B}.Development|Default.ActiveCfg = Development
+		{D3C18D64-9B15-4F60-8595-A20D6081A41B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {025EB614-49BA-40FF-A639-42BEF24DBA5E}
+	EndGlobalSection
+EndGlobal
